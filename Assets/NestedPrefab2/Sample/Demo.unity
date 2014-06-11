@@ -211,6 +211,14 @@ Prefab:
       propertyPath: m_Text
       value: Hello World
       objectReference: {fileID: 0}
+    - target: {fileID: 21200000, guid: 20d7c979270d3473fa5f8e5ece6a7a28, type: 2}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 20d7c979270d3473fa5f8e5ece6a7a28, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 20d7c979270d3473fa5f8e5ece6a7a28, type: 2}
   m_RootGameObject: {fileID: 1403058483}
